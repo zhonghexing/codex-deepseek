@@ -32,8 +32,8 @@ Codex 使用 OpenAI 专有的 **Responses API**，DeepSeek 只提供标准的 **
 ### 2. 克隆仓库
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/codex-deepseek-guide.git
-cd codex-deepseek-guide
+git clone https://github.com/zhonghexing/codex-deepseek.git
+cd codex-deepseek
 ```
 
 ### 3. 配置 API Key

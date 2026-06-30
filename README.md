@@ -1,5 +1,7 @@
 # Codex + DeepSeek 完整配置指南
 
+[English](README.en.md)
+
 > 使用 cc-switch + 本地协议翻译代理，让 Codex 桌面版/CLI 无缝接入 DeepSeek
 
 ## 为什么需要这个方案？
